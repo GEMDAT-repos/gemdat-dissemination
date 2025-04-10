@@ -1,3 +1,3 @@
-# duqtools dissemination
+# gemdat dissemination
 
-In this repository you can find the dissemination materials of [duqtools](https://github.com/duqtools/duqtools)
+In this repository you can find the dissemination materials of [gemdat](https://github.com/gemdat-repos/gemdat)
